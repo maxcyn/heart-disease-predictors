@@ -1,0 +1,5 @@
+"model_a","model_b","auc_a_minus_b","ci_low","ci_high"
+"Point score (chosen questions)","Logistic, all 21 questions",-0.00572114825233372,-0.00726882628261398,-0.00429375587255023
+"Logistic, chosen questions","Logistic, all 21 questions",-0.00528745001120723,-0.00678763421499695,-0.00390337756807518
+"Point score (chosen questions)","Logistic, chosen questions",-0.00043369824112649,-0.000991196758603422,5.75152797923527e-05
+"Point score (chosen questions)","Age only",0.114628671785281,0.108040701421253,0.120857507367842

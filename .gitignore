@@ -47,3 +47,13 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+# Dataset (not committed; see README "Reproducing")
+heart_disease_indicators_dataset.csv
+
+# Private working notes / agent instructions
+AGENTS.md
+notes.md
+
+# Regenerable run artifacts
+outputs/logs/
+outputs/*.rds

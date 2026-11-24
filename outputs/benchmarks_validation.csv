@@ -1,0 +1,5 @@
+"model","questions","valid_auc","valid_logloss"
+"No model (predict the training prevalence)",0,0.5,0.312093683817642
+"Age only (13 bands)",1,0.730330091900838,0.28212303512906
+"Logistic, all 21, numeric-linear coding (as in the original)",21,0.8504280094284,0.236954637229184
+"Logistic, all 21, categorical coding",21,0.850438996185061,0.236845107576594
